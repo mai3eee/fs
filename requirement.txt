@@ -1,0 +1,14 @@
+streamlit
+opencv-python
+pandas
+numpy
+Pillow
+scikit-learn
+matplotlib
+streamlit
+opencv-python
+pandas
+numpy
+Pillow
+scikit-learn
+matplotlib
